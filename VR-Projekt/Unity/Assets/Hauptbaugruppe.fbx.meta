@@ -1,0 +1,2185 @@
+fileFormatVersion: 2
+guid: dde757e98e54f3a498c37e61c4433450
+timeCreated: 1453811969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hauptbaugruppe - Raum-1
+    100004: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-1
+    100006: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-2
+    100008: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-3
+    100010: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-4
+    100012: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS1-
+    100014: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS2-
+    100016: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-1
+    100018: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-2
+    100020: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-3
+    100022: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 3 Zoll-1
+    100024: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 1 0 H1
+    100026: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 2 0 H1
+    100028: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Z.000
+    100030: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Zoll-
+    100032: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.000
+    100034: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.001
+    100036: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.002
+    100038: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.003
+    100040: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.004
+    100042: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.005
+    100044: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabschnit
+    100046: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfangbehaelter 0 H1
+    100048: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfluss 1Zoll-1
+    100050: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abstromventil Luft 1
+    100052: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehael.000
+    100054: 'Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehaelter '
+    100056: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsbehaelter
+    100058: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-1
+    100060: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-2
+    100062: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsrohr FB T
+    100064: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zol.000
+    100066: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll Kr
+    100068: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-1
+    100070: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-10
+    100072: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-11
+    100074: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-12
+    100076: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-13
+    100078: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-2
+    100080: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-3
+    100082: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-5
+    100084: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-6
+    100086: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-7
+    100088: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-8
+    100090: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-9
+    100092: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 2 Zoll-1
+    100094: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Hubkolbenpumpe-1
+    100096: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-1
+    100098: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-2
+    100100: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.000
+    100102: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.001
+    100104: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.002
+    100106: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.003
+    100108: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.004
+    100110: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.005
+    100112: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.006
+    100114: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.007
+    100116: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Regelv
+    100118: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.000
+    100120: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.001
+    100122: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.002
+    100124: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.003
+    100126: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.004
+    100128: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Schedule4
+    100130: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.000
+    100132: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.001
+    100134: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.002
+    100136: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.003
+    100138: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.004
+    100140: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.005
+    100142: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.006
+    100144: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.007
+    100146: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.008
+    100148: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.009
+    100150: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Zoll-
+    100152: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.000
+    100154: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.001
+    100156: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Zoll-
+    100158: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.000
+    100160: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.001
+    100162: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.002
+    100164: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.003
+    100166: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.004
+    100168: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.005
+    100170: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.006
+    100172: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.007
+    100174: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.008
+    100176: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.009
+    100178: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.010
+    100180: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.011
+    100182: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.012
+    100184: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.013
+    100186: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.014
+    100188: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.015
+    100190: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.016
+    100192: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.017
+    100194: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.018
+    100196: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.019
+    100198: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.020
+    100200: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.021
+    100202: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.022
+    100204: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.023
+    100206: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.024
+    100208: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.025
+    100210: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.026
+    100212: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.027
+    100214: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.028
+    100216: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.029
+    100218: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.030
+    100220: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.031
+    100222: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.032
+    100224: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.033
+    100226: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.034
+    100228: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.035
+    100230: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.036
+    100232: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.037
+    100234: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.038
+    100236: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.039
+    100238: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.040
+    100240: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.041
+    100242: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.042
+    100244: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabschnit
+    100246: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Zuluftventil 2 Zoll-
+    100248: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchflusspumpe 0 H1
+    100250: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelv.000
+    100252: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelventi
+    100254: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Elektrisches Regelve
+    100256: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-10
+    100258: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-11
+    100260: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-12
+    100262: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-13
+    100264: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-14
+    100266: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-2
+    100268: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-3
+    100270: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-4
+    100272: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-5
+    100274: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-6
+    100276: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-7
+    100278: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-8
+    100280: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-9
+    100282: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.000
+    100284: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.001
+    100286: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Zoll-
+    100288: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Messblende-1
+    100290: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Re.000
+    100292: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Regelv
+    100294: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .000
+    100296: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .001
+    100298: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .002
+    100300: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .003
+    100302: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .004
+    100304: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .005
+    100306: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .006
+    100308: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .007
+    100310: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .008
+    100312: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .009
+    100314: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .010
+    100316: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .011
+    100318: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 H1 T
+    100320: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.000
+    100322: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.001
+    100324: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.002
+    100326: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.003
+    100328: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.004
+    100330: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.005
+    100332: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.006
+    100334: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.007
+    100336: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.008
+    100338: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.009
+    100340: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.010
+    100342: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.011
+    100344: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.012
+    100346: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.013
+    100348: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.014
+    100350: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.015
+    100352: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.016
+    100354: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.017
+    100356: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.018
+    100358: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.019
+    100360: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.020
+    100362: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.021
+    100364: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.022
+    100366: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.023
+    100368: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.024
+    100370: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.025
+    100372: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.026
+    100374: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.027
+    100376: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.028
+    100378: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.029
+    100380: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.030
+    100382: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.031
+    100384: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.032
+    100386: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.033
+    100388: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.034
+    100390: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.035
+    100392: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.036
+    100394: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.037
+    100396: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.038
+    100398: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.039
+    100400: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.040
+    100402: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.041
+    100404: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.042
+    100406: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.043
+    100408: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.044
+    100410: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.045
+    100412: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabschnit
+    100414: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rueckschlagdurchgang
+    100416: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Siebkorbfilter 3Zoll
+    100418: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-1
+    100420: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-2
+    100422: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser 1Zo
+    100424: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser.000
+    100426: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-1
+    100428: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-2
+    100430: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll Kr
+    100432: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-1
+    100434: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-2
+    100436: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-3
+    100438: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.000
+    100440: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.001
+    100442: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Regelv
+    100444: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohr T-Stueck 1Zoll-
+    100446: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.000
+    100448: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.001
+    100450: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.002
+    100452: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.003
+    100454: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.004
+    100456: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.005
+    100458: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.006
+    100460: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.007
+    100462: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.008
+    100464: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.009
+    100466: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.010
+    100468: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.011
+    100470: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.012
+    100472: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabschnit
+    100474: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1.000
+    100476: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1Zoll
+    100478: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 T003 laengs 1Zoll-1
+    100480: 'Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Warmwasserbehaelter '
+    100482: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 3Wegeventil 2 Zoll-1
+    100484: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-1
+    100486: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-2
+    100488: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-3
+    100490: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abstromventil Luft 1
+    100492: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 F003 2Zoll-1
+    100494: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll Kr
+    100496: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-1
+    100498: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-10
+    100500: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-11
+    100502: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-2
+    100504: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-3
+    100506: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-4
+    100508: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-6
+    100510: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-7
+    100512: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-8
+    100514: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-9
+    100516: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe klein 1
+    100518: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe T5-1
+    100520: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Z.000
+    100522: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Zoll-
+    100524: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Sched.000
+    100526: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Schedule4
+    100528: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.000
+    100530: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.001
+    100532: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.002
+    100534: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Zoll-
+    100536: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.000
+    100538: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.001
+    100540: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.002
+    100542: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.003
+    100544: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.004
+    100546: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.005
+    100548: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.006
+    100550: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.007
+    100552: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.008
+    100554: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.009
+    100556: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.010
+    100558: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.011
+    100560: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.012
+    100562: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.013
+    100564: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.014
+    100566: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.015
+    100568: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.016
+    100570: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.017
+    100572: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.018
+    100574: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.019
+    100576: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.020
+    100578: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.021
+    100580: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.022
+    100582: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.023
+    100584: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.024
+    100586: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.025
+    100588: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.026
+    100590: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.027
+    100592: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.028
+    100594: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.029
+    100596: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabschnit
+    100598: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rueckschlagdurchgang
+    100600: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll 2Z
+    100602: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-2
+    100604: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-3
+    100606: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-4
+    100608: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-5
+    100610: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W1-1
+    100612: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W2-1
+    100614: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-1
+    100616: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-2
+    100618: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Elektrisches Regelve
+    100620: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-1
+    100622: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-2
+    100624: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Fuellstandsensor-1
+    100626: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll Kr
+    100628: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-1
+    100630: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-10
+    100632: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-11
+    100634: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-12
+    100636: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-13
+    100638: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-2
+    100640: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-3
+    100642: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-4
+    100644: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-5
+    100646: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-6
+    100648: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-7
+    100650: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-8
+    100652: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-9
+    100654: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T5-1
+    100656: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T6 1-1
+    100658: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Loesungsbehaelter T6
+    100660: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.000
+    100662: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.001
+    100664: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.002
+    100666: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.003
+    100668: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.004
+    100670: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.005
+    100672: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.006
+    100674: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.007
+    100676: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Zoll-
+    100678: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-1
+    100680: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-2
+    100682: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 1 T6-
+    100684: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 2 T6-
+    100686: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.000
+    100688: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.001
+    100690: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.002
+    100692: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Regelv
+    100694: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.000
+    100696: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.001
+    100698: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Schedule4
+    100700: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.000
+    100702: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.001
+    100704: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.002
+    100706: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.003
+    100708: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.004
+    100710: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.005
+    100712: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.006
+    100714: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.007
+    100716: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Zoll-
+    100718: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.000
+    100720: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.001
+    100722: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.002
+    100724: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.003
+    100726: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.004
+    100728: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.005
+    100730: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.006
+    100732: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.007
+    100734: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.008
+    100736: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.009
+    100738: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.010
+    100740: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.011
+    100742: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.012
+    100744: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.013
+    100746: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.014
+    100748: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.015
+    100750: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.016
+    100752: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.017
+    100754: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.018
+    100756: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.019
+    100758: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.020
+    100760: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.021
+    100762: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.022
+    100764: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.023
+    100766: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.024
+    100768: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.025
+    100770: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.026
+    100772: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.027
+    100774: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.028
+    100776: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.029
+    100778: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.030
+    100780: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.031
+    100782: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.032
+    100784: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.033
+    100786: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.034
+    100788: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.035
+    100790: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.036
+    100792: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.037
+    100794: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.038
+    100796: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.039
+    100798: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.040
+    100800: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.041
+    100802: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.042
+    100804: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.043
+    100806: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.044
+    100808: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.045
+    100810: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.046
+    100812: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.047
+    100814: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.048
+    100816: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.049
+    100818: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.050
+    100820: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.051
+    100822: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.052
+    100824: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.053
+    100826: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.054
+    100828: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.055
+    100830: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.056
+    100832: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabschnit
+    100834: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-1
+    100836: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-2
+    100838: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 1Zoll-1
+    100840: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 2Zoll-1
+    100842: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Zwischenspeicher T6-
+    100844: Hauptbaugruppe - Raum-1.001
+    100846: Lamp
+    400000: //RootNode
+    400002: Hauptbaugruppe - Raum-1
+    400004: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-1
+    400006: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-2
+    400008: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-3
+    400010: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-4
+    400012: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS1-
+    400014: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS2-
+    400016: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-1
+    400018: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-2
+    400020: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-3
+    400022: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 3 Zoll-1
+    400024: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 1 0 H1
+    400026: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 2 0 H1
+    400028: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Z.000
+    400030: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Zoll-
+    400032: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.000
+    400034: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.001
+    400036: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.002
+    400038: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.003
+    400040: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.004
+    400042: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.005
+    400044: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabschnit
+    400046: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfangbehaelter 0 H1
+    400048: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfluss 1Zoll-1
+    400050: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abstromventil Luft 1
+    400052: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehael.000
+    400054: 'Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehaelter '
+    400056: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsbehaelter
+    400058: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-1
+    400060: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-2
+    400062: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsrohr FB T
+    400064: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zol.000
+    400066: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll Kr
+    400068: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-1
+    400070: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-10
+    400072: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-11
+    400074: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-12
+    400076: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-13
+    400078: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-2
+    400080: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-3
+    400082: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-5
+    400084: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-6
+    400086: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-7
+    400088: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-8
+    400090: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-9
+    400092: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 2 Zoll-1
+    400094: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Hubkolbenpumpe-1
+    400096: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-1
+    400098: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-2
+    400100: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.000
+    400102: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.001
+    400104: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.002
+    400106: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.003
+    400108: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.004
+    400110: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.005
+    400112: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.006
+    400114: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.007
+    400116: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Regelv
+    400118: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.000
+    400120: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.001
+    400122: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.002
+    400124: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.003
+    400126: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.004
+    400128: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Schedule4
+    400130: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.000
+    400132: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.001
+    400134: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.002
+    400136: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.003
+    400138: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.004
+    400140: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.005
+    400142: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.006
+    400144: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.007
+    400146: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.008
+    400148: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.009
+    400150: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Zoll-
+    400152: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.000
+    400154: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.001
+    400156: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Zoll-
+    400158: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.000
+    400160: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.001
+    400162: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.002
+    400164: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.003
+    400166: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.004
+    400168: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.005
+    400170: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.006
+    400172: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.007
+    400174: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.008
+    400176: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.009
+    400178: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.010
+    400180: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.011
+    400182: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.012
+    400184: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.013
+    400186: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.014
+    400188: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.015
+    400190: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.016
+    400192: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.017
+    400194: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.018
+    400196: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.019
+    400198: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.020
+    400200: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.021
+    400202: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.022
+    400204: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.023
+    400206: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.024
+    400208: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.025
+    400210: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.026
+    400212: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.027
+    400214: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.028
+    400216: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.029
+    400218: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.030
+    400220: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.031
+    400222: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.032
+    400224: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.033
+    400226: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.034
+    400228: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.035
+    400230: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.036
+    400232: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.037
+    400234: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.038
+    400236: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.039
+    400238: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.040
+    400240: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.041
+    400242: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.042
+    400244: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabschnit
+    400246: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Zuluftventil 2 Zoll-
+    400248: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchflusspumpe 0 H1
+    400250: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelv.000
+    400252: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelventi
+    400254: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Elektrisches Regelve
+    400256: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-10
+    400258: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-11
+    400260: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-12
+    400262: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-13
+    400264: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-14
+    400266: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-2
+    400268: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-3
+    400270: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-4
+    400272: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-5
+    400274: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-6
+    400276: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-7
+    400278: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-8
+    400280: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-9
+    400282: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.000
+    400284: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.001
+    400286: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Zoll-
+    400288: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Messblende-1
+    400290: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Re.000
+    400292: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Regelv
+    400294: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .000
+    400296: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .001
+    400298: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .002
+    400300: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .003
+    400302: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .004
+    400304: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .005
+    400306: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .006
+    400308: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .007
+    400310: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .008
+    400312: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .009
+    400314: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .010
+    400316: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .011
+    400318: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 H1 T
+    400320: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.000
+    400322: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.001
+    400324: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.002
+    400326: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.003
+    400328: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.004
+    400330: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.005
+    400332: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.006
+    400334: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.007
+    400336: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.008
+    400338: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.009
+    400340: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.010
+    400342: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.011
+    400344: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.012
+    400346: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.013
+    400348: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.014
+    400350: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.015
+    400352: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.016
+    400354: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.017
+    400356: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.018
+    400358: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.019
+    400360: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.020
+    400362: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.021
+    400364: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.022
+    400366: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.023
+    400368: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.024
+    400370: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.025
+    400372: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.026
+    400374: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.027
+    400376: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.028
+    400378: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.029
+    400380: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.030
+    400382: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.031
+    400384: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.032
+    400386: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.033
+    400388: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.034
+    400390: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.035
+    400392: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.036
+    400394: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.037
+    400396: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.038
+    400398: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.039
+    400400: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.040
+    400402: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.041
+    400404: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.042
+    400406: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.043
+    400408: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.044
+    400410: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.045
+    400412: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabschnit
+    400414: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rueckschlagdurchgang
+    400416: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Siebkorbfilter 3Zoll
+    400418: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-1
+    400420: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-2
+    400422: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser 1Zo
+    400424: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser.000
+    400426: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-1
+    400428: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-2
+    400430: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll Kr
+    400432: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-1
+    400434: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-2
+    400436: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-3
+    400438: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.000
+    400440: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.001
+    400442: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Regelv
+    400444: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohr T-Stueck 1Zoll-
+    400446: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.000
+    400448: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.001
+    400450: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.002
+    400452: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.003
+    400454: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.004
+    400456: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.005
+    400458: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.006
+    400460: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.007
+    400462: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.008
+    400464: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.009
+    400466: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.010
+    400468: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.011
+    400470: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.012
+    400472: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabschnit
+    400474: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1.000
+    400476: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1Zoll
+    400478: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 T003 laengs 1Zoll-1
+    400480: 'Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Warmwasserbehaelter '
+    400482: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 3Wegeventil 2 Zoll-1
+    400484: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-1
+    400486: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-2
+    400488: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-3
+    400490: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abstromventil Luft 1
+    400492: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 F003 2Zoll-1
+    400494: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll Kr
+    400496: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-1
+    400498: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-10
+    400500: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-11
+    400502: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-2
+    400504: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-3
+    400506: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-4
+    400508: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-6
+    400510: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-7
+    400512: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-8
+    400514: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-9
+    400516: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe klein 1
+    400518: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe T5-1
+    400520: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Z.000
+    400522: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Zoll-
+    400524: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Sched.000
+    400526: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Schedule4
+    400528: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.000
+    400530: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.001
+    400532: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.002
+    400534: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Zoll-
+    400536: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.000
+    400538: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.001
+    400540: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.002
+    400542: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.003
+    400544: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.004
+    400546: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.005
+    400548: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.006
+    400550: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.007
+    400552: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.008
+    400554: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.009
+    400556: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.010
+    400558: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.011
+    400560: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.012
+    400562: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.013
+    400564: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.014
+    400566: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.015
+    400568: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.016
+    400570: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.017
+    400572: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.018
+    400574: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.019
+    400576: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.020
+    400578: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.021
+    400580: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.022
+    400582: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.023
+    400584: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.024
+    400586: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.025
+    400588: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.026
+    400590: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.027
+    400592: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.028
+    400594: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.029
+    400596: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabschnit
+    400598: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rueckschlagdurchgang
+    400600: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll 2Z
+    400602: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-2
+    400604: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-3
+    400606: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-4
+    400608: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-5
+    400610: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W1-1
+    400612: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W2-1
+    400614: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-1
+    400616: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-2
+    400618: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Elektrisches Regelve
+    400620: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-1
+    400622: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-2
+    400624: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Fuellstandsensor-1
+    400626: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll Kr
+    400628: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-1
+    400630: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-10
+    400632: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-11
+    400634: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-12
+    400636: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-13
+    400638: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-2
+    400640: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-3
+    400642: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-4
+    400644: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-5
+    400646: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-6
+    400648: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-7
+    400650: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-8
+    400652: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-9
+    400654: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T5-1
+    400656: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T6 1-1
+    400658: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Loesungsbehaelter T6
+    400660: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.000
+    400662: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.001
+    400664: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.002
+    400666: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.003
+    400668: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.004
+    400670: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.005
+    400672: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.006
+    400674: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.007
+    400676: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Zoll-
+    400678: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-1
+    400680: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-2
+    400682: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 1 T6-
+    400684: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 2 T6-
+    400686: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.000
+    400688: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.001
+    400690: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.002
+    400692: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Regelv
+    400694: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.000
+    400696: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.001
+    400698: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Schedule4
+    400700: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.000
+    400702: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.001
+    400704: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.002
+    400706: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.003
+    400708: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.004
+    400710: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.005
+    400712: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.006
+    400714: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.007
+    400716: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Zoll-
+    400718: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.000
+    400720: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.001
+    400722: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.002
+    400724: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.003
+    400726: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.004
+    400728: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.005
+    400730: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.006
+    400732: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.007
+    400734: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.008
+    400736: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.009
+    400738: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.010
+    400740: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.011
+    400742: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.012
+    400744: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.013
+    400746: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.014
+    400748: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.015
+    400750: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.016
+    400752: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.017
+    400754: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.018
+    400756: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.019
+    400758: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.020
+    400760: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.021
+    400762: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.022
+    400764: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.023
+    400766: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.024
+    400768: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.025
+    400770: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.026
+    400772: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.027
+    400774: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.028
+    400776: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.029
+    400778: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.030
+    400780: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.031
+    400782: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.032
+    400784: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.033
+    400786: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.034
+    400788: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.035
+    400790: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.036
+    400792: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.037
+    400794: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.038
+    400796: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.039
+    400798: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.040
+    400800: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.041
+    400802: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.042
+    400804: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.043
+    400806: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.044
+    400808: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.045
+    400810: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.046
+    400812: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.047
+    400814: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.048
+    400816: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.049
+    400818: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.050
+    400820: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.051
+    400822: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.052
+    400824: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.053
+    400826: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.054
+    400828: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.055
+    400830: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.056
+    400832: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabschnit
+    400834: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-1
+    400836: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-2
+    400838: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 1Zoll-1
+    400840: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 2Zoll-1
+    400842: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Zwischenspeicher T6-
+    400844: Hauptbaugruppe - Raum-1.001
+    400846: Lamp
+    2300000: Hauptbaugruppe - Raum-1
+    2300002: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-1
+    2300004: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-2
+    2300006: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-3
+    2300008: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-4
+    2300010: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS1-
+    2300012: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS2-
+    2300014: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-1
+    2300016: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-2
+    2300018: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-3
+    2300020: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 3 Zoll-1
+    2300022: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 1 0 H1
+    2300024: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 2 0 H1
+    2300026: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Z.000
+    2300028: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Zoll-
+    2300030: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.000
+    2300032: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.001
+    2300034: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.002
+    2300036: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.003
+    2300038: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.004
+    2300040: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.005
+    2300042: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabschnit
+    2300044: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfangbehaelter 0 H1
+    2300046: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfluss 1Zoll-1
+    2300048: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abstromventil Luft 1
+    2300050: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehael.000
+    2300052: 'Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehaelter '
+    2300054: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsbehaelter
+    2300056: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-1
+    2300058: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-2
+    2300060: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsrohr FB T
+    2300062: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zol.000
+    2300064: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll Kr
+    2300066: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-1
+    2300068: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-10
+    2300070: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-11
+    2300072: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-12
+    2300074: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-13
+    2300076: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-2
+    2300078: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-3
+    2300080: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-5
+    2300082: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-6
+    2300084: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-7
+    2300086: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-8
+    2300088: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-9
+    2300090: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 2 Zoll-1
+    2300092: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Hubkolbenpumpe-1
+    2300094: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-1
+    2300096: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-2
+    2300098: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.000
+    2300100: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.001
+    2300102: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.002
+    2300104: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.003
+    2300106: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.004
+    2300108: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.005
+    2300110: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.006
+    2300112: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.007
+    2300114: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Regelv
+    2300116: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.000
+    2300118: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.001
+    2300120: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.002
+    2300122: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.003
+    2300124: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.004
+    2300126: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Schedule4
+    2300128: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.000
+    2300130: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.001
+    2300132: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.002
+    2300134: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.003
+    2300136: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.004
+    2300138: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.005
+    2300140: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.006
+    2300142: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.007
+    2300144: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.008
+    2300146: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.009
+    2300148: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Zoll-
+    2300150: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.000
+    2300152: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.001
+    2300154: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Zoll-
+    2300156: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.000
+    2300158: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.001
+    2300160: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.002
+    2300162: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.003
+    2300164: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.004
+    2300166: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.005
+    2300168: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.006
+    2300170: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.007
+    2300172: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.008
+    2300174: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.009
+    2300176: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.010
+    2300178: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.011
+    2300180: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.012
+    2300182: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.013
+    2300184: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.014
+    2300186: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.015
+    2300188: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.016
+    2300190: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.017
+    2300192: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.018
+    2300194: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.019
+    2300196: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.020
+    2300198: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.021
+    2300200: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.022
+    2300202: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.023
+    2300204: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.024
+    2300206: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.025
+    2300208: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.026
+    2300210: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.027
+    2300212: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.028
+    2300214: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.029
+    2300216: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.030
+    2300218: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.031
+    2300220: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.032
+    2300222: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.033
+    2300224: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.034
+    2300226: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.035
+    2300228: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.036
+    2300230: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.037
+    2300232: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.038
+    2300234: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.039
+    2300236: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.040
+    2300238: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.041
+    2300240: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.042
+    2300242: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabschnit
+    2300244: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Zuluftventil 2 Zoll-
+    2300246: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchflusspumpe 0 H1
+    2300248: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelv.000
+    2300250: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelventi
+    2300252: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Elektrisches Regelve
+    2300254: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-10
+    2300256: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-11
+    2300258: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-12
+    2300260: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-13
+    2300262: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-14
+    2300264: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-2
+    2300266: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-3
+    2300268: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-4
+    2300270: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-5
+    2300272: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-6
+    2300274: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-7
+    2300276: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-8
+    2300278: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-9
+    2300280: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.000
+    2300282: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.001
+    2300284: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Zoll-
+    2300286: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Messblende-1
+    2300288: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Re.000
+    2300290: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Regelv
+    2300292: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .000
+    2300294: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .001
+    2300296: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .002
+    2300298: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .003
+    2300300: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .004
+    2300302: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .005
+    2300304: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .006
+    2300306: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .007
+    2300308: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .008
+    2300310: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .009
+    2300312: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .010
+    2300314: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .011
+    2300316: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 H1 T
+    2300318: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.000
+    2300320: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.001
+    2300322: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.002
+    2300324: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.003
+    2300326: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.004
+    2300328: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.005
+    2300330: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.006
+    2300332: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.007
+    2300334: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.008
+    2300336: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.009
+    2300338: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.010
+    2300340: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.011
+    2300342: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.012
+    2300344: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.013
+    2300346: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.014
+    2300348: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.015
+    2300350: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.016
+    2300352: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.017
+    2300354: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.018
+    2300356: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.019
+    2300358: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.020
+    2300360: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.021
+    2300362: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.022
+    2300364: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.023
+    2300366: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.024
+    2300368: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.025
+    2300370: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.026
+    2300372: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.027
+    2300374: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.028
+    2300376: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.029
+    2300378: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.030
+    2300380: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.031
+    2300382: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.032
+    2300384: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.033
+    2300386: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.034
+    2300388: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.035
+    2300390: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.036
+    2300392: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.037
+    2300394: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.038
+    2300396: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.039
+    2300398: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.040
+    2300400: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.041
+    2300402: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.042
+    2300404: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.043
+    2300406: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.044
+    2300408: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.045
+    2300410: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabschnit
+    2300412: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rueckschlagdurchgang
+    2300414: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Siebkorbfilter 3Zoll
+    2300416: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-1
+    2300418: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-2
+    2300420: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser 1Zo
+    2300422: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser.000
+    2300424: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-1
+    2300426: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-2
+    2300428: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll Kr
+    2300430: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-1
+    2300432: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-2
+    2300434: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-3
+    2300436: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.000
+    2300438: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.001
+    2300440: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Regelv
+    2300442: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohr T-Stueck 1Zoll-
+    2300444: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.000
+    2300446: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.001
+    2300448: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.002
+    2300450: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.003
+    2300452: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.004
+    2300454: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.005
+    2300456: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.006
+    2300458: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.007
+    2300460: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.008
+    2300462: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.009
+    2300464: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.010
+    2300466: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.011
+    2300468: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.012
+    2300470: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabschnit
+    2300472: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1.000
+    2300474: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1Zoll
+    2300476: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 T003 laengs 1Zoll-1
+    2300478: 'Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Warmwasserbehaelter '
+    2300480: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 3Wegeventil 2 Zoll-1
+    2300482: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-1
+    2300484: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-2
+    2300486: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-3
+    2300488: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abstromventil Luft 1
+    2300490: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 F003 2Zoll-1
+    2300492: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll Kr
+    2300494: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-1
+    2300496: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-10
+    2300498: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-11
+    2300500: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-2
+    2300502: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-3
+    2300504: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-4
+    2300506: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-6
+    2300508: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-7
+    2300510: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-8
+    2300512: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-9
+    2300514: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe klein 1
+    2300516: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe T5-1
+    2300518: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Z.000
+    2300520: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Zoll-
+    2300522: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Sched.000
+    2300524: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Schedule4
+    2300526: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.000
+    2300528: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.001
+    2300530: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.002
+    2300532: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Zoll-
+    2300534: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.000
+    2300536: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.001
+    2300538: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.002
+    2300540: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.003
+    2300542: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.004
+    2300544: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.005
+    2300546: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.006
+    2300548: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.007
+    2300550: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.008
+    2300552: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.009
+    2300554: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.010
+    2300556: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.011
+    2300558: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.012
+    2300560: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.013
+    2300562: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.014
+    2300564: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.015
+    2300566: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.016
+    2300568: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.017
+    2300570: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.018
+    2300572: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.019
+    2300574: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.020
+    2300576: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.021
+    2300578: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.022
+    2300580: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.023
+    2300582: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.024
+    2300584: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.025
+    2300586: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.026
+    2300588: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.027
+    2300590: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.028
+    2300592: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.029
+    2300594: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabschnit
+    2300596: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rueckschlagdurchgang
+    2300598: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll 2Z
+    2300600: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-2
+    2300602: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-3
+    2300604: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-4
+    2300606: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-5
+    2300608: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W1-1
+    2300610: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W2-1
+    2300612: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-1
+    2300614: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-2
+    2300616: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Elektrisches Regelve
+    2300618: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-1
+    2300620: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-2
+    2300622: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Fuellstandsensor-1
+    2300624: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll Kr
+    2300626: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-1
+    2300628: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-10
+    2300630: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-11
+    2300632: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-12
+    2300634: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-13
+    2300636: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-2
+    2300638: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-3
+    2300640: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-4
+    2300642: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-5
+    2300644: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-6
+    2300646: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-7
+    2300648: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-8
+    2300650: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-9
+    2300652: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T5-1
+    2300654: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T6 1-1
+    2300656: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Loesungsbehaelter T6
+    2300658: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.000
+    2300660: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.001
+    2300662: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.002
+    2300664: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.003
+    2300666: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.004
+    2300668: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.005
+    2300670: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.006
+    2300672: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.007
+    2300674: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Zoll-
+    2300676: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-1
+    2300678: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-2
+    2300680: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 1 T6-
+    2300682: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 2 T6-
+    2300684: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.000
+    2300686: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.001
+    2300688: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.002
+    2300690: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Regelv
+    2300692: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.000
+    2300694: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.001
+    2300696: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Schedule4
+    2300698: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.000
+    2300700: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.001
+    2300702: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.002
+    2300704: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.003
+    2300706: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.004
+    2300708: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.005
+    2300710: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.006
+    2300712: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.007
+    2300714: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Zoll-
+    2300716: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.000
+    2300718: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.001
+    2300720: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.002
+    2300722: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.003
+    2300724: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.004
+    2300726: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.005
+    2300728: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.006
+    2300730: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.007
+    2300732: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.008
+    2300734: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.009
+    2300736: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.010
+    2300738: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.011
+    2300740: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.012
+    2300742: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.013
+    2300744: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.014
+    2300746: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.015
+    2300748: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.016
+    2300750: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.017
+    2300752: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.018
+    2300754: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.019
+    2300756: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.020
+    2300758: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.021
+    2300760: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.022
+    2300762: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.023
+    2300764: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.024
+    2300766: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.025
+    2300768: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.026
+    2300770: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.027
+    2300772: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.028
+    2300774: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.029
+    2300776: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.030
+    2300778: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.031
+    2300780: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.032
+    2300782: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.033
+    2300784: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.034
+    2300786: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.035
+    2300788: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.036
+    2300790: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.037
+    2300792: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.038
+    2300794: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.039
+    2300796: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.040
+    2300798: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.041
+    2300800: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.042
+    2300802: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.043
+    2300804: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.044
+    2300806: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.045
+    2300808: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.046
+    2300810: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.047
+    2300812: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.048
+    2300814: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.049
+    2300816: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.050
+    2300818: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.051
+    2300820: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.052
+    2300822: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.053
+    2300824: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.054
+    2300826: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.055
+    2300828: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.056
+    2300830: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabschnit
+    2300832: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-1
+    2300834: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-2
+    2300836: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 1Zoll-1
+    2300838: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 2Zoll-1
+    2300840: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Zwischenspeicher T6-
+    2300842: Hauptbaugruppe - Raum-1.001
+    3300000: Hauptbaugruppe - Raum-1
+    3300002: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-1
+    3300004: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-2
+    3300006: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-3
+    3300008: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-4
+    3300010: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS1-
+    3300012: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS2-
+    3300014: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-1
+    3300016: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-2
+    3300018: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-3
+    3300020: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 3 Zoll-1
+    3300022: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 1 0 H1
+    3300024: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 2 0 H1
+    3300026: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Z.000
+    3300028: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Zoll-
+    3300030: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.000
+    3300032: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.001
+    3300034: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.002
+    3300036: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.003
+    3300038: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.004
+    3300040: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.005
+    3300042: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabschnit
+    3300044: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfangbehaelter 0 H1
+    3300046: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfluss 1Zoll-1
+    3300048: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abstromventil Luft 1
+    3300050: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehael.000
+    3300052: 'Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehaelter '
+    3300054: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsbehaelter
+    3300056: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-1
+    3300058: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-2
+    3300060: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsrohr FB T
+    3300062: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zol.000
+    3300064: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll Kr
+    3300066: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-1
+    3300068: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-10
+    3300070: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-11
+    3300072: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-12
+    3300074: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-13
+    3300076: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-2
+    3300078: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-3
+    3300080: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-5
+    3300082: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-6
+    3300084: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-7
+    3300086: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-8
+    3300088: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-9
+    3300090: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 2 Zoll-1
+    3300092: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Hubkolbenpumpe-1
+    3300094: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-1
+    3300096: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-2
+    3300098: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.000
+    3300100: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.001
+    3300102: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.002
+    3300104: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.003
+    3300106: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.004
+    3300108: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.005
+    3300110: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.006
+    3300112: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.007
+    3300114: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Regelv
+    3300116: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.000
+    3300118: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.001
+    3300120: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.002
+    3300122: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.003
+    3300124: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.004
+    3300126: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Schedule4
+    3300128: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.000
+    3300130: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.001
+    3300132: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.002
+    3300134: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.003
+    3300136: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.004
+    3300138: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.005
+    3300140: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.006
+    3300142: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.007
+    3300144: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.008
+    3300146: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.009
+    3300148: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Zoll-
+    3300150: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.000
+    3300152: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.001
+    3300154: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Zoll-
+    3300156: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.000
+    3300158: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.001
+    3300160: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.002
+    3300162: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.003
+    3300164: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.004
+    3300166: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.005
+    3300168: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.006
+    3300170: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.007
+    3300172: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.008
+    3300174: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.009
+    3300176: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.010
+    3300178: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.011
+    3300180: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.012
+    3300182: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.013
+    3300184: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.014
+    3300186: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.015
+    3300188: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.016
+    3300190: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.017
+    3300192: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.018
+    3300194: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.019
+    3300196: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.020
+    3300198: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.021
+    3300200: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.022
+    3300202: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.023
+    3300204: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.024
+    3300206: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.025
+    3300208: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.026
+    3300210: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.027
+    3300212: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.028
+    3300214: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.029
+    3300216: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.030
+    3300218: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.031
+    3300220: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.032
+    3300222: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.033
+    3300224: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.034
+    3300226: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.035
+    3300228: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.036
+    3300230: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.037
+    3300232: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.038
+    3300234: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.039
+    3300236: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.040
+    3300238: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.041
+    3300240: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.042
+    3300242: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabschnit
+    3300244: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Zuluftventil 2 Zoll-
+    3300246: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchflusspumpe 0 H1
+    3300248: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelv.000
+    3300250: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelventi
+    3300252: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Elektrisches Regelve
+    3300254: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-10
+    3300256: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-11
+    3300258: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-12
+    3300260: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-13
+    3300262: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-14
+    3300264: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-2
+    3300266: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-3
+    3300268: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-4
+    3300270: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-5
+    3300272: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-6
+    3300274: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-7
+    3300276: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-8
+    3300278: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-9
+    3300280: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.000
+    3300282: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.001
+    3300284: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Zoll-
+    3300286: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Messblende-1
+    3300288: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Re.000
+    3300290: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Regelv
+    3300292: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .000
+    3300294: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .001
+    3300296: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .002
+    3300298: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .003
+    3300300: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .004
+    3300302: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .005
+    3300304: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .006
+    3300306: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .007
+    3300308: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .008
+    3300310: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .009
+    3300312: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .010
+    3300314: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .011
+    3300316: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 H1 T
+    3300318: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.000
+    3300320: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.001
+    3300322: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.002
+    3300324: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.003
+    3300326: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.004
+    3300328: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.005
+    3300330: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.006
+    3300332: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.007
+    3300334: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.008
+    3300336: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.009
+    3300338: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.010
+    3300340: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.011
+    3300342: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.012
+    3300344: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.013
+    3300346: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.014
+    3300348: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.015
+    3300350: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.016
+    3300352: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.017
+    3300354: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.018
+    3300356: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.019
+    3300358: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.020
+    3300360: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.021
+    3300362: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.022
+    3300364: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.023
+    3300366: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.024
+    3300368: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.025
+    3300370: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.026
+    3300372: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.027
+    3300374: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.028
+    3300376: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.029
+    3300378: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.030
+    3300380: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.031
+    3300382: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.032
+    3300384: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.033
+    3300386: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.034
+    3300388: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.035
+    3300390: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.036
+    3300392: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.037
+    3300394: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.038
+    3300396: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.039
+    3300398: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.040
+    3300400: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.041
+    3300402: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.042
+    3300404: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.043
+    3300406: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.044
+    3300408: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.045
+    3300410: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabschnit
+    3300412: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rueckschlagdurchgang
+    3300414: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Siebkorbfilter 3Zoll
+    3300416: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-1
+    3300418: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-2
+    3300420: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser 1Zo
+    3300422: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser.000
+    3300424: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-1
+    3300426: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-2
+    3300428: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll Kr
+    3300430: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-1
+    3300432: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-2
+    3300434: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-3
+    3300436: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.000
+    3300438: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.001
+    3300440: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Regelv
+    3300442: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohr T-Stueck 1Zoll-
+    3300444: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.000
+    3300446: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.001
+    3300448: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.002
+    3300450: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.003
+    3300452: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.004
+    3300454: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.005
+    3300456: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.006
+    3300458: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.007
+    3300460: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.008
+    3300462: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.009
+    3300464: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.010
+    3300466: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.011
+    3300468: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.012
+    3300470: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabschnit
+    3300472: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1.000
+    3300474: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1Zoll
+    3300476: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 T003 laengs 1Zoll-1
+    3300478: 'Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Warmwasserbehaelter '
+    3300480: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 3Wegeventil 2 Zoll-1
+    3300482: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-1
+    3300484: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-2
+    3300486: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-3
+    3300488: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abstromventil Luft 1
+    3300490: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 F003 2Zoll-1
+    3300492: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll Kr
+    3300494: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-1
+    3300496: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-10
+    3300498: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-11
+    3300500: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-2
+    3300502: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-3
+    3300504: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-4
+    3300506: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-6
+    3300508: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-7
+    3300510: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-8
+    3300512: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-9
+    3300514: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe klein 1
+    3300516: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe T5-1
+    3300518: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Z.000
+    3300520: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Zoll-
+    3300522: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Sched.000
+    3300524: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Schedule4
+    3300526: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.000
+    3300528: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.001
+    3300530: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.002
+    3300532: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Zoll-
+    3300534: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.000
+    3300536: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.001
+    3300538: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.002
+    3300540: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.003
+    3300542: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.004
+    3300544: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.005
+    3300546: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.006
+    3300548: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.007
+    3300550: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.008
+    3300552: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.009
+    3300554: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.010
+    3300556: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.011
+    3300558: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.012
+    3300560: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.013
+    3300562: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.014
+    3300564: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.015
+    3300566: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.016
+    3300568: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.017
+    3300570: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.018
+    3300572: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.019
+    3300574: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.020
+    3300576: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.021
+    3300578: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.022
+    3300580: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.023
+    3300582: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.024
+    3300584: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.025
+    3300586: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.026
+    3300588: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.027
+    3300590: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.028
+    3300592: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.029
+    3300594: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabschnit
+    3300596: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rueckschlagdurchgang
+    3300598: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll 2Z
+    3300600: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-2
+    3300602: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-3
+    3300604: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-4
+    3300606: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-5
+    3300608: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W1-1
+    3300610: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W2-1
+    3300612: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-1
+    3300614: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-2
+    3300616: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Elektrisches Regelve
+    3300618: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-1
+    3300620: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-2
+    3300622: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Fuellstandsensor-1
+    3300624: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll Kr
+    3300626: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-1
+    3300628: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-10
+    3300630: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-11
+    3300632: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-12
+    3300634: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-13
+    3300636: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-2
+    3300638: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-3
+    3300640: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-4
+    3300642: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-5
+    3300644: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-6
+    3300646: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-7
+    3300648: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-8
+    3300650: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-9
+    3300652: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T5-1
+    3300654: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T6 1-1
+    3300656: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Loesungsbehaelter T6
+    3300658: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.000
+    3300660: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.001
+    3300662: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.002
+    3300664: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.003
+    3300666: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.004
+    3300668: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.005
+    3300670: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.006
+    3300672: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.007
+    3300674: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Zoll-
+    3300676: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-1
+    3300678: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-2
+    3300680: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 1 T6-
+    3300682: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 2 T6-
+    3300684: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.000
+    3300686: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.001
+    3300688: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.002
+    3300690: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Regelv
+    3300692: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.000
+    3300694: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.001
+    3300696: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Schedule4
+    3300698: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.000
+    3300700: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.001
+    3300702: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.002
+    3300704: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.003
+    3300706: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.004
+    3300708: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.005
+    3300710: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.006
+    3300712: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.007
+    3300714: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Zoll-
+    3300716: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.000
+    3300718: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.001
+    3300720: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.002
+    3300722: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.003
+    3300724: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.004
+    3300726: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.005
+    3300728: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.006
+    3300730: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.007
+    3300732: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.008
+    3300734: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.009
+    3300736: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.010
+    3300738: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.011
+    3300740: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.012
+    3300742: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.013
+    3300744: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.014
+    3300746: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.015
+    3300748: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.016
+    3300750: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.017
+    3300752: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.018
+    3300754: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.019
+    3300756: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.020
+    3300758: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.021
+    3300760: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.022
+    3300762: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.023
+    3300764: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.024
+    3300766: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.025
+    3300768: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.026
+    3300770: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.027
+    3300772: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.028
+    3300774: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.029
+    3300776: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.030
+    3300778: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.031
+    3300780: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.032
+    3300782: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.033
+    3300784: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.034
+    3300786: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.035
+    3300788: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.036
+    3300790: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.037
+    3300792: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.038
+    3300794: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.039
+    3300796: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.040
+    3300798: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.041
+    3300800: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.042
+    3300802: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.043
+    3300804: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.044
+    3300806: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.045
+    3300808: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.046
+    3300810: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.047
+    3300812: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.048
+    3300814: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.049
+    3300816: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.050
+    3300818: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.051
+    3300820: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.052
+    3300822: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.053
+    3300824: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.054
+    3300826: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.055
+    3300828: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.056
+    3300830: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabschnit
+    3300832: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-1
+    3300834: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-2
+    3300836: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 1Zoll-1
+    3300838: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 2Zoll-1
+    3300840: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Zwischenspeicher T6-
+    3300842: Hauptbaugruppe - Raum-1.001
+    4300000: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Zwischenspeicher T6-
+    4300002: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 2Zoll-1
+    4300004: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Ventilkorb 1Zoll-1
+    4300006: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-2
+    4300008: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 T003 laengs 1Zoll-1
+    4300010: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.056
+    4300012: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.055
+    4300014: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.054
+    4300016: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.053
+    4300018: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.052
+    4300020: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.051
+    4300022: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.050
+    4300024: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.049
+    4300026: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.048
+    4300028: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.047
+    4300030: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.046
+    4300032: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.045
+    4300034: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.044
+    4300036: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.043
+    4300038: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.042
+    4300040: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.041
+    4300042: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.040
+    4300044: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.039
+    4300046: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.038
+    4300048: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.037
+    4300050: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.036
+    4300052: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.035
+    4300054: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.034
+    4300056: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.033
+    4300058: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.032
+    4300060: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.031
+    4300062: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.030
+    4300064: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.029
+    4300066: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.028
+    4300068: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.027
+    4300070: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.026
+    4300072: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.025
+    4300074: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.024
+    4300076: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.023
+    4300078: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.022
+    4300080: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.021
+    4300082: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.020
+    4300084: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.019
+    4300086: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.018
+    4300088: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.017
+    4300090: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.016
+    4300092: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.015
+    4300094: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.014
+    4300096: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.013
+    4300098: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.012
+    4300100: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.011
+    4300102: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.010
+    4300104: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.009
+    4300106: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.008
+    4300108: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.007
+    4300110: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.006
+    4300112: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.005
+    4300114: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.004
+    4300116: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.003
+    4300118: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.002
+    4300120: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.001
+    4300122: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabsc.000
+    4300124: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohrleitungsabschnit
+    4300126: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.007
+    4300128: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.006
+    4300130: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.005
+    4300132: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.004
+    4300134: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.003
+    4300136: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.002
+    4300138: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.001
+    4300140: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Z.000
+    4300142: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr T-Stueck 1Zoll-
+    4300144: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.001
+    4300146: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Sched.000
+    4300148: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Rohr 1Zoll Schedule4
+    4300150: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.002
+    4300152: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.001
+    4300154: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Re.000
+    4300156: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Pneumatisches Regelv
+    4300158: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 2 T6-
+    4300160: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Mischbehaelter 1 T6-
+    4300162: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-2
+    4300164: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Messblende 1Zoll-1
+    4300166: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.007
+    4300168: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.006
+    4300170: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.005
+    4300172: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.004
+    4300174: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.003
+    4300176: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.002
+    4300178: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.001
+    4300180: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Z.000
+    4300182: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Magnetventil 1 Zoll-
+    4300184: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Loesungsbehaelter T6
+    4300186: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T6 1-1
+    4300188: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Kreiselpumpe T5-1
+    4300190: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll Kr
+    4300192: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-13
+    4300194: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-12
+    4300196: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-11
+    4300198: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-10
+    4300200: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-9
+    4300202: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-8
+    4300204: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-7
+    4300206: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-6
+    4300208: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-5
+    4300210: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-4
+    4300212: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-3
+    4300214: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-2
+    4300216: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Handventil 1 Zoll-1
+    4300218: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Fuellstandsensor-1
+    4300220: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-2
+    4300222: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 F003 1Zoll-1
+    4300224: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Elektrisches Regelve
+    4300226: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-2
+    4300228: Hauptbaugruppe - Teilanlage 6 BG 0 H1 T6-1 Abfluss 1Zoll-1
+    4300230: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W2-1
+    4300232: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Waermetauscher W1-1
+    4300234: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll 2Z
+    4300236: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-5
+    4300238: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-4
+    4300240: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-3
+    4300242: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 T003 laengs 1Zoll-2
+    4300244: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rueckschlagdurchgang
+    4300246: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.029
+    4300248: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.028
+    4300250: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.027
+    4300252: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.026
+    4300254: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.025
+    4300256: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.024
+    4300258: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.023
+    4300260: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.022
+    4300262: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.021
+    4300264: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.020
+    4300266: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.019
+    4300268: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.018
+    4300270: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.017
+    4300272: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.016
+    4300274: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.015
+    4300276: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.014
+    4300278: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.013
+    4300280: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.012
+    4300282: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.011
+    4300284: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.010
+    4300286: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.009
+    4300288: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.008
+    4300290: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.007
+    4300292: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.006
+    4300294: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.005
+    4300296: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.004
+    4300298: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.003
+    4300300: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.002
+    4300302: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.001
+    4300304: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabsc.000
+    4300306: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohrleitungsabschnit
+    4300308: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.002
+    4300310: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.001
+    4300312: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Z.000
+    4300314: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr T-Stueck 1Zoll-
+    4300316: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Sched.000
+    4300318: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Rohr 1Zoll Schedule4
+    4300320: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Z.000
+    4300322: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Magnetventil 1 Zoll-
+    4300324: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe T5-1
+    4300326: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Kreiselpumpe klein 1
+    4300328: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll Kr
+    4300330: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-11
+    4300332: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-10
+    4300334: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-9
+    4300336: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-8
+    4300338: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-7
+    4300340: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-6
+    4300342: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-4
+    4300344: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-3
+    4300346: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-2
+    4300348: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Handventil 1 Zoll-1
+    4300350: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 F003 2Zoll-1
+    4300352: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abstromventil Luft 1
+    4300354: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-3
+    4300356: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-2
+    4300358: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 Abfluss 1Zoll-1
+    4300360: Hauptbaugruppe - Teilanlage 5 BG 0 H1 T5-1 3Wegeventil 2 Zoll-1
+    4300362: 'Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Warmwasserbehaelter '
+    4300364: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 T003 laengs 1Zoll-1
+    4300366: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1.000
+    4300368: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Siebkorbfilter 1Zoll
+    4300370: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.012
+    4300372: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.011
+    4300374: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.010
+    4300376: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.009
+    4300378: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.008
+    4300380: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.007
+    4300382: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.006
+    4300384: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.005
+    4300386: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.004
+    4300388: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.003
+    4300390: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.002
+    4300392: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.001
+    4300394: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabsc.000
+    4300396: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohrleitungsabschnit
+    4300398: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Rohr T-Stueck 1Zoll-
+    4300400: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.001
+    4300402: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Re.000
+    4300404: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Pneumatisches Regelv
+    4300406: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll Kr
+    4300408: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-3
+    4300410: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-2
+    4300412: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Handventil 1 Zoll-1
+    4300414: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-2
+    4300416: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Fuellstandsensor-1
+    4300418: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser.000
+    4300420: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Durchflussmesser 1Zo
+    4300422: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-2
+    4300424: Hauptbaugruppe - Teilanlage 4 BG 0 H1 T4-1 Abfluss 1Zoll-1
+    4300426: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Siebkorbfilter 3Zoll
+    4300428: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rueckschlagdurchgang
+    4300430: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.045
+    4300432: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.044
+    4300434: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.043
+    4300436: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.042
+    4300438: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.041
+    4300440: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.040
+    4300442: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.039
+    4300444: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.038
+    4300446: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.037
+    4300448: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.036
+    4300450: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.035
+    4300452: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.034
+    4300454: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.033
+    4300456: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.032
+    4300458: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.031
+    4300460: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.030
+    4300462: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.029
+    4300464: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.028
+    4300466: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.027
+    4300468: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.026
+    4300470: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.025
+    4300472: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.024
+    4300474: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.023
+    4300476: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.022
+    4300478: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.021
+    4300480: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.020
+    4300482: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.019
+    4300484: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.018
+    4300486: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.017
+    4300488: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.016
+    4300490: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.015
+    4300492: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.014
+    4300494: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.013
+    4300496: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.012
+    4300498: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.011
+    4300500: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.010
+    4300502: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.009
+    4300504: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.008
+    4300506: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.007
+    4300508: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.006
+    4300510: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.005
+    4300512: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.004
+    4300514: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.003
+    4300516: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.002
+    4300518: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.001
+    4300520: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabsc.000
+    4300522: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohrleitungsabschnit
+    4300524: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .011
+    4300526: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .010
+    4300528: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .009
+    4300530: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .008
+    4300532: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .007
+    4300534: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .006
+    4300536: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .005
+    4300538: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .004
+    4300540: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .003
+    4300542: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .002
+    4300544: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .001
+    4300546: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 .000
+    4300548: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Rohr T-Stueck 0 H1 T
+    4300550: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Re.000
+    4300552: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Pneumatisches Regelv
+    4300554: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Messblende-1
+    4300556: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.001
+    4300558: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Z.000
+    4300560: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Magnetventil 2 Zoll-
+    4300562: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-14
+    4300564: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-13
+    4300566: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-12
+    4300568: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-11
+    4300570: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-10
+    4300572: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-9
+    4300574: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-8
+    4300576: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-7
+    4300578: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-6
+    4300580: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-5
+    4300582: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-4
+    4300584: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-3
+    4300586: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Handventil 2 Zoll-2
+    4300588: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Elektrisches Regelve
+    4300590: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelv.000
+    4300592: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchgangsregelventi
+    4300594: Hauptbaugruppe - Teilanlage 3 BG 0 H1 T3-1 Durchflusspumpe 0 H1
+    4300596: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Zuluftventil 2 Zoll-
+    4300598: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.042
+    4300600: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.041
+    4300602: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.040
+    4300604: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.039
+    4300606: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.038
+    4300608: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.037
+    4300610: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.036
+    4300612: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.035
+    4300614: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.034
+    4300616: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.033
+    4300618: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.032
+    4300620: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.031
+    4300622: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.030
+    4300624: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.029
+    4300626: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.028
+    4300628: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.027
+    4300630: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.026
+    4300632: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.025
+    4300634: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.024
+    4300636: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.023
+    4300638: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.022
+    4300640: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.021
+    4300642: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.020
+    4300644: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.019
+    4300646: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.018
+    4300648: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.017
+    4300650: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.016
+    4300652: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.015
+    4300654: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.014
+    4300656: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.013
+    4300658: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.012
+    4300660: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.011
+    4300662: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.010
+    4300664: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.009
+    4300666: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.008
+    4300668: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.007
+    4300670: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.006
+    4300672: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.005
+    4300674: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.004
+    4300676: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.003
+    4300678: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.002
+    4300680: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.001
+    4300682: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabsc.000
+    4300684: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrleitungsabschnit
+    4300686: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.001
+    4300688: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Z.000
+    4300690: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohrkreuzung 1 Zoll-
+    4300692: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.009
+    4300694: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.008
+    4300696: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.007
+    4300698: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.006
+    4300700: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.005
+    4300702: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.004
+    4300704: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.003
+    4300706: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.002
+    4300708: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.001
+    4300710: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Z.000
+    4300712: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr T-Stueck 1Zoll-
+    4300714: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.004
+    4300716: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.003
+    4300718: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.002
+    4300720: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.001
+    4300722: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Sched.000
+    4300724: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Rohr 1Zoll Schedule4
+    4300726: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.007
+    4300728: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.006
+    4300730: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.005
+    4300732: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.004
+    4300734: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.003
+    4300736: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.002
+    4300738: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.001
+    4300740: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Re.000
+    4300742: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Pneumatisches Regelv
+    4300744: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-2
+    4300746: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Messblende 1Zoll-1
+    4300748: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Hubkolbenpumpe-1
+    4300750: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 2 Zoll-1
+    4300752: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zol.000
+    4300754: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll Kr
+    4300756: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-13
+    4300758: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-12
+    4300760: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-11
+    4300762: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-10
+    4300764: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-9
+    4300766: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-8
+    4300768: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-7
+    4300770: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-6
+    4300772: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-5
+    4300774: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-3
+    4300776: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-2
+    4300778: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Handventil 1 Zoll-1
+    4300780: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsrohr FB T
+    4300782: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-2
+    4300784: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsensor-1
+    4300786: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Fuellstandsbehaelter
+    4300788: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehael.000
+    4300790: 'Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Ausgleichsbehaelter '
+    4300792: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abstromventil Luft 1
+    4300794: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfluss 1Zoll-1
+    4300796: Hauptbaugruppe - Teilanlage 2 BG 0 H1 T2-2 Abfangbehaelter 0 H1
+    4300798: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.005
+    4300800: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.004
+    4300802: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.003
+    4300804: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.002
+    4300806: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.001
+    4300808: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabsc.000
+    4300810: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohrleitungsabschnit
+    4300812: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Z.000
+    4300814: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Rohr T-Stueck 1Zoll-
+    4300816: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 2 0 H1
+    4300818: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Hauptspeicher 1 0 H1
+    4300820: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 3 Zoll-1
+    4300822: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-3
+    4300824: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-2
+    4300826: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Handventil 1 Zoll-1
+    4300828: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS2-
+    4300830: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsrohr HS1-
+    4300832: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-4
+    4300834: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-3
+    4300836: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-2
+    4300838: Hauptbaugruppe - Teilanlage 1 BG 0 H1 T1-1 Fuellstandsensor-1
+    4300840: Hauptbaugruppe - Raum-1
+    4300842: Hauptbaugruppe - Raum-1.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

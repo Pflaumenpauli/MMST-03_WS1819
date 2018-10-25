@@ -1,0 +1,35 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX mso: <http://eatld.et.tu-dresden.de/mso/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+	
+SELECT DISTINCT ?attributeSTR ?valueSTR ?unitSTR
+FROM <$$LD_GRAPH$$>
+FROM <http://eatld.et.tu-dresden.de/mso>
+WHERE {
+	?equipment mso:plantID ?kennzeichen.
+	{
+     	?equipment ?predicate ?value.
+           ?predicate a owl:DatatypeProperty ;
+           rdfs:label ?attribute.
+	} 
+	UNION
+	{
+		?equipment ?p2 ?physicalValue.
+		?p2 rdfs:label ?attribute.
+		?physicalValue mso:physicalUnit ?unit;
+						mso:numericalValue ?value.
+    	# Filter
+      	FILTER ( lang(?unit) = "en" )
+    	FILTER ( lang(?value) = "en" )
+	}
+      	FILTER ( lang(?attribute) = "de" )
+      	FILTER regex(?kennzeichen,"$$LD_IDENTIFIER$$")
+  		FILTER ( str(?value) != "" )
+  
+  	# Get string
+    BIND (str(?attribute) as ?attributeSTR).
+    BIND(str(?value) as ?valueSTR).
+    BIND(str(?unit) as?unitSTR).
+  
+}
+ORDER BY ?kennzeichen
